@@ -13,3 +13,5 @@ Readers scroll, drag or press Play to dive through them.
   home again.
 - [**The embed demo**](https://divetrope.github.io/divetrope/demo.html) shows
   the three ways to put one on a page.
+- [**A one-minute commercial**](https://edu.yepgent.com/watch/) for Yep Edu
+  ends on a call to action.
